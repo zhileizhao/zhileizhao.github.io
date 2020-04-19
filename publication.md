@@ -15,8 +15,11 @@ I've been lucky to participate in many exciting research projects since college 
 ### Mosquito neurobiology
 
 ### Mosquito genomics
+Matthews, B. J., Dudchenko, O., Kingan, S. B., Koren, S. _et al._ (2018). Improved reference genome of Aedes aegypti informs arbovirus vector control. _Nature_, 563(7732), 501–507. [https://doi.org/10.1038/s41586-018-0692-z](https://doi.org/10.1038/s41586-018-0692-z)
+
 
 ### Evolution of miRNAs
+Luo, J., Wang, Y., Yuan, J., **Zhao, Z.**, & Lu, J.<sup>#</sup> (2018). MicroRNA duplication accelerates the recruitment of new targets during vertebrate evolution. _RNA_, 24(6), 787–802. [https://doi.org/10.1261/rna.062752.117](https://doi.org/10.1261/rna.062752.117)
 
 ### Modeling of lipid vesicles
 Jackman, J. A., Tabaei, S. R., **Zhao, Z.**, Yorulmaz, S., & Cho, N.-J.<sup>#</sup> (2015). Self-Assembly Formation of Lipid Bilayer Coatings on Bare Aluminum Oxide: Overcoming the Force of Interfacial Water. _ACS Applied Materials & Interfaces_, 7(1), 959–968. [https://doi.org/10.1021/am507651h](https://doi.org/10.1021/am507651h)  
