@@ -6,7 +6,7 @@ published: true
 ---
 
 I've been lucky to participate in many exciting research projects since college and make some contributions to our understanding of the amazing world!  
-\
+
 *: equal contribution. #: corresponding author.  
 
 ### Evolution of neural circuits
