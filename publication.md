@@ -7,10 +7,10 @@ published: true
 
 I've been lucky to participate in many exciting research projects since college and make some contributions to our understanding of the amazing world!  
 
-*: equal contribution. :email: corresponding author.  
+*: equal contribution. (U+2670): corresponding author.  
 
 ### Evolution of neural circuits
-**Zhao, Z.**<sup>#</sup>, & McBride, C. S.<sup>#</sup> (2020). Evolution of olfactory circuits in insects. _Journal of Comparative Physiology A_. [https://doi.org/10.1007/s00359-020-01399-6](https://doi.org/10.1007/s00359-020-01399-6)
+**Zhao, Z.**^, & McBride, C. S.^ (2020). Evolution of olfactory circuits in insects. _Journal of Comparative Physiology A_. [https://doi.org/10.1007/s00359-020-01399-6](https://doi.org/10.1007/s00359-020-01399-6)
 
 
 ### Mosquito neurobiology
