@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhilei Zhao (赵志磊）
+title: Zhilei Zhao 赵志磊
 permalink: /cv/
 published: true
 ---
