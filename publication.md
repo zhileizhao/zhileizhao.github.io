@@ -7,14 +7,14 @@ published: true
 
 I've been lucky to participate in many exciting research projects since college and make some contributions to our understanding of the amazing world!  
 
-☨: equal contribution. #: corresponding author.  
+☨: equal contribution. *: corresponding author.  
 
 ### Evolution of neural circuits
-**Zhao, Z.**^, & McBride, C. S.^ (2020). Evolution of olfactory circuits in insects. _Journal of Comparative Physiology A_. [https://doi.org/10.1007/s00359-020-01399-6](https://doi.org/10.1007/s00359-020-01399-6)
+**Zhao, Z.**\*, & McBride, C. S.\* (2020). Evolution of olfactory circuits in insects. _Journal of Comparative Physiology A_. [https://doi.org/10.1007/s00359-020-01399-6](https://doi.org/10.1007/s00359-020-01399-6)
 
 
 ### Mosquito neurobiology
-Jové, V., Gong, Z.\*, Hol, F. J. H.\*, **Zhao, Z.**\*, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.<sup>#</sup> (2020). The taste of blood in mosquitoes. _BioRxiv_, 2020.02.27.954206. [https://doi.org/10.1101/2020.02.27.954206](https://doi.org/10.1101/2020.02.27.954206)
+Jové, V., Gong, Z.☨, Hol, F. J. H.☨, **Zhao, Z.**☨, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.<sup>#</sup> (2020). The taste of blood in mosquitoes. _BioRxiv_, 2020.02.27.954206. [https://doi.org/10.1101/2020.02.27.954206](https://doi.org/10.1101/2020.02.27.954206)
 
 
 ### Mosquito genomics
