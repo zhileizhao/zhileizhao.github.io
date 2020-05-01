@@ -7,7 +7,7 @@ published: true
 
 I've been lucky to participate in many exciting research projects since college and make some contributions to our understanding of the amazing world!  
 
-*: equal contribution. #: corresponding author.  
+*: equal contribution. :email:: corresponding author.  
 
 ### Evolution of neural circuits
 **Zhao, Z.**<sup>#</sup>, & McBride, C. S.<sup>#</sup> (2020). Evolution of olfactory circuits in insects. _Journal of Comparative Physiology A_. [https://doi.org/10.1007/s00359-020-01399-6](https://doi.org/10.1007/s00359-020-01399-6)
@@ -31,4 +31,3 @@ Jackman, J. A., Tabaei, S. R., **Zhao, Z.**, Yorulmaz, S., & Cho, N.-J.<sup>#</s
 Jackman, J. A., Zan, G. H., **Zhao, Z.**, & Cho, N.-J.<sup>#</sup> (2014). Contribution of the hydration force to vesicle adhesion on titanium oxide. _Langmuir_, 30(19), 5368–5372. [https://doi.org/10.1021/la404581d](https://doi.org/10.1021/la404581d)  
 
 Jackman, J. A., **Zhao, Z.**, Zhdanov, V. P., Frank, C. W., & Cho, N.-J.<sup>#</sup> (2014). Vesicle adhesion and rupture on silicon oxide: influence of freeze–thaw pretreatment. _Langmuir_, 30(8), 2152–2160. [https://doi.org/10.1021/la404582n](https://doi.org/10.1021/la404582n)
-
