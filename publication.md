@@ -14,7 +14,7 @@ I've been lucky to participate in many exciting research projects since college 
 
 
 ### Mosquito neurobiology
-Jové, V., Gong, Z.☨, Hol, F. J. H.☨, **Zhao, Z.**☨, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.\* (2020). The taste of blood in mosquitoes. _BioRxiv_, 2020.02.27.954206. [https://doi.org/10.1101/2020.02.27.954206](https://doi.org/10.1101/2020.02.27.954206)
+Jové, V., Gong, Z.☨, Hol, F. J. H.☨, **Zhao, Z.** ☨, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.\* (2020). The taste of blood in mosquitoes. _BioRxiv_, 2020.02.27.954206. [https://doi.org/10.1101/2020.02.27.954206](https://doi.org/10.1101/2020.02.27.954206)
 
 
 ### Mosquito genomics
