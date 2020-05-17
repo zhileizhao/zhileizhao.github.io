@@ -11,7 +11,7 @@ Google Scholar: [Zhilei Zhao](https://scholar.google.com/citations?user=jqFT-xoA
 ORCID: [https://orcid.org/0000-0001-6624-6853](https://orcid.org/0000-0001-6624-6853)   
 
 ### Education
-
+**PhD**	Princeton University, <div align="right">2015-present</div>
 
 ### Research experience
 
