@@ -11,13 +11,13 @@ Google Scholar: [Zhilei Zhao](https://scholar.google.com/citations?user=jqFT-xoA
 ORCID: [https://orcid.org/0000-0001-6624-6853](https://orcid.org/0000-0001-6624-6853)   
 
 ### Education
-**PhD**	Princeton University, NJ 08544, USA. **2015-present**    
-&nbsp; &nbsp; &nbsp; &nbsp; Graduate Program, Department of Ecology and Evolutionary Biology    
-&nbsp; &nbsp; &nbsp; &nbsp; Joint Graduate Degree Program, Princeton Neuroscience Institute      
-&nbsp; &nbsp; &nbsp; &nbsp; Advisor: Prof. Carolyn (Lindy) McBride    
+**PhD**	&nbsp; Princeton University, NJ 08544, USA. **2015-present**    
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graduate Program, Department of Ecology and Evolutionary Biology    
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Joint Graduate Degree Program, Princeton Neuroscience Institute      
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advisor: Prof. Carolyn (Lindy) McBride    
      
-**BS** Peking University, Beijing 100871, China. **2010-2014**    
-&nbsp; &nbsp; &nbsp; School of Life Sciences
+**BS** &nbsp; &nbsp; Peking University, Beijing 100871, China. **2010-2014**    
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; School of Life Sciences
 
 
 
