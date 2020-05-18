@@ -12,7 +12,7 @@ ORCID: [https://orcid.org/0000-0001-6624-6853](https://orcid.org/0000-0001-6624-
 
 ## Education
 **PhD**	Princeton University, NJ 08544, USA. **2015-present**    
-Graduate Program, Department of Ecology and Evolutionary Biology    
+&nbsp; &nbsp; &nbsp; Graduate Program, Department of Ecology and Evolutionary Biology    
 Joint Graduate Degree Program, Princeton Neuroscience Institute      
 Advisor: Prof. Carolyn (Lindy) McBride    
      
