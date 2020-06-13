@@ -29,7 +29,8 @@ Neurogenetics and Evolution of Behaviors, Princeton University
 Instructor: Prof. Carolyn (Lindy) McBride
 
 **Research Assistant**, 2013.04 - 2015.05  
-Laboratory of Evolutionary and Population Genomics, Peking University, Beijing, China Advisor: Prof. Jian Lu  
+Laboratory of Evolutionary and Population Genomics, Peking University, Beijing, China    
+Advisor: Prof. Jian Lu  
 -- Functional divergence of duplicated microRNA genes.
 
 **Research Internship**, 2013.06 - 2013.09  
@@ -81,6 +82,4 @@ Computational
 -- Familiarity with Python, R, Matlab.  
 -- Familiarity with Arduino boards and control.   
 -- Image analysis and computer vision.   
--- Statistical methods, e.g. generalized linear model.  
-
-
+-- Statistical methods, e.g. generalized linear model.
