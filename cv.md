@@ -66,7 +66,7 @@ Beijing Area Fly Meeting. 2014.04
     
 ### Awards
 First Prize and Best Presentation. 2013.12    
-6th Symposium of Undergraduate Student Summer Internship Program.       	
+6th Symposium of Undergraduate Student Summer Internship Program.     
 -- Project: Extended-DLVO modeling of supported lipid bilayers.  
    
 ### Skills
