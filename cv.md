@@ -11,14 +11,14 @@ Google Scholar: [Zhilei Zhao](https://scholar.google.com/citations?user=jqFT-xoA
 ORCID: [https://orcid.org/0000-0001-6624-6853](https://orcid.org/0000-0001-6624-6853)   
 
 ### Education
-**PhD**	&nbsp; Princeton University, NJ 08544, USA. 2015 - present    
+**PhD**	&nbsp; [Princeton University](https://en.wikipedia.org/wiki/Princeton_University), NJ 08544, USA. 2015 - present    
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graduate Program, Department of Ecology and Evolutionary Biology    
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Joint Graduate Degree Program, Princeton Neuroscience Institute      
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advisor: Prof. Carolyn (Lindy) McBride    
-     
-**BS** &nbsp; &nbsp; Peking University, Beijing 100871, China. 2010 - 2014    
+
+**BS** &nbsp; &nbsp; [Peking University](https://en.wikipedia.org/wiki/Peking_University), Beijing 100871, China. 2010 - 2014    
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; School of Life Sciences  
-    
+
 ### Experience
 **Teaching Assistant**, 2018.02 - 2018.06    
 Animal Behavior, Princeton University  
@@ -42,7 +42,7 @@ Advisor: Prof. Namjoon Cho
 State Key Laboratory of Protein and Plant Gene Research, Peking University, Beijing, China   
 Advisor: Prof. Zenyi Chang  
 -- The function of Heat Shock Protein in _C. elegans_.      
-    
+
 ### Conferences
 New Genetic Tools for Non-Model Organisms. 2019.03  
 -- Poster: Developing standard landing sites in _Aedes aegypti_ mosquitoes.   
@@ -63,12 +63,12 @@ The 3rd Young Bioinformatics PI Workshop. 2014.09
 
 Beijing Area Fly Meeting. 2014.04    
 -- Talk: Protein translation diversity in _Drosophila_ revealed by ribosome profiling under different environmental stresses.
-    
+
 ### Awards
 First Prize and Best Presentation. 2013.12    
 6th Symposium of Undergraduate Student Summer Internship Program.     
 -- Project: Extended-DLVO modeling of supported lipid bilayers.  
-   
+
 ### Skills
 Experimental  
 -- Transgenesis, e.g. CRISPR/Cas9 and transposon-based methods.  
