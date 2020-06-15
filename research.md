@@ -1,11 +1,12 @@
 ---
 layout: page
-title: My research
+title: Research
 permalink: /research/
 published: true
 ---
 
-I'm trained in the fields of neurobiology and evolutionary biology. 
-While broadly interested in any cool science in these two fields, I'm especially intested in their intersection: evolutionary neurobiology.   
+My scientific training is in the fields of _neurobiology_ and _evolutionary biology_.
+While broadly fascinated by any cool science in these two fields, I'm especially interested in their intersection: _evolutionary neurobiology_.      
+
 
 ### Evolution of olfactory circuits in mosquitoes
