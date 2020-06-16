@@ -1,0 +1,25 @@
+I"�<h3 id="overview-of-research-interests">Overview of research interests</h3>
+<p>My scientific training is in the fields of <em>neurobiology</em> and <em>evolutionary biology</em>.
+While broadly interested in any cool sciences in these two fields, I’m especially fascinated by their intersection: <em>evolutionary neurobiology</em>.</p>
+
+<p>Evolutionary/comparative thinking plays essential roles in neurobiology, if our goal is to really understand the principles of how neural circuits mediate complex behaviors, not only case studies in a few model organisms. All neural circuits, no matter in fruit flies, mice or humans, are evolved from a common ancestor.
+Since <a href="https://science.sciencemag.org/content/196/4295/1161">evolution works by tinkering</a>, the vast complexity we see with billions of neurons in human brain,
+<img align="right" src="/images/brain_tree2.png" style="width:240px;height:216px;" />
+is the result of ever struggling for existence and descent with modifications, rather than omniscient design from scratch. We can only fully understand it when we compare it to other species, and find out what have conserved, what have changed and what have converged.</p>
+
+<p>Evolutionary neurobiology is a relatively young field, since majority of neuroscientists focus on a few model organisms without comparative thinking in mind. Meanwhile, evolutionary biologists have been studying evolution of behaviors ever since Darwin, but they didn’t work on the underlying neurobiological mechanisms. This gap is also partly caused by technical difficulties of working with non-model organisms, where access to neural circuits is rarely available. However, thanks to the recent advances of genome editing technologies like CRISPR/Cas9, this situation is changing rapidly, creating unprecedented opportunities to do comparative work at the neural circuit level.</p>
+
+<h3 id="evolution-of-olfactory-circuits-in-mosquitoes">Evolution of olfactory circuits in mosquitoes</h3>
+<p>Among millions of animal species that have nervous system, careful choice of study system is critical. During my PhD research, I’ve been focusing on the <a href="https://doi.org/10.1007/s00359-020-01399-6">evolution of olfactory circuits</a> in the <a href="https://en.wikipedia.org/wiki/Aedes_aegypti"><em>Aedes aegypti</em></a> mosquitoes. We believe it’s a fantastic system to understand the principles of how neural circuits evolve, along with important practical applications.</p>
+
+<p><img align="right" src="/images/domestic_forest.png" style="width:250px;height:250px;" />
+<em>Aedes aegypti</em> was originated in Africa, but rapidly spread throughout tropics and subtropics over the last 500 years. Although the ancestral form in Africa is generalist, using many animal species as hosts for blood-feeding, the derived form outside Africa became specialist on humans. Many behaviors have changed during this process, among which is their strong preference for human body odor, over the odor of non-human animals. The question we are addressing is:  <span style="color:HotPink">what have changed in the olfactory circuits during evolution to drive this shift to human hosts?</span> This system offers many advantages:</p>
+<ul>
+  <li>both generalist and specialist forms can breed easily in the lab and produce fertile hybrids;</li>
+  <li>very recent evolution so homologous circuit elements can be confidently identified;</li>
+  <li>a high-quality genome and genome editing technologies to access circuits;</li>
+  <li>the olfactory circuits in Dipteran insects were well understood by work in <em>Drosophila</em>.</li>
+</ul>
+
+<p>It also has important practical values, just imagine if we can change the human-preference of these dangerous mosquitoes after we understand how it works!</p>
+:ET
