@@ -18,7 +18,7 @@ Evolutionary neurobiology is a relatively young field, since majority of neurosc
 ### Evolution of olfactory circuits in mosquitoes
 Among millions of animal species that have nervous systems, careful choice of study system is critical. During my PhD research, I've been focusing on the [evolution of olfactory circuits](https://doi.org/10.1007/s00359-020-01399-6) in the [_Aedes aegypti_](https://en.wikipedia.org/wiki/Aedes_aegypti) mosquitoes. We believe it's a fantastic system to understand the principles of how neural circuits evolve, along with important practical applications.    
 
-<img align="right" src="/images/domestic_forest2.png" style="width:250px;height:234px;">
+<img align="right" src="/images/domestic_forest2.PNG" style="width:250px;height:234px;">
 _Aedes aegypti_ was originated in Africa, but rapidly spread throughout tropics and subtropics over the last 500 years. Although the ancestral form in Africa is generalist, using many animal species as hosts for blood-feeding, the derived form outside Africa became specialist on humans. Many behaviors have changed during this process, among which is their strong preference for human body odor, over the odor of non-human animals. The question we are addressing is:  <span style="color:HotPink">what have changed in the olfactory circuits during evolution to drive this shift to human hosts?</span> This system offers many advantages:
 * both generalist and specialist forms can breed easily in the lab and produce fertile hybrids;
 * very recent evolution so homologous circuit elements can be confidently identified;
