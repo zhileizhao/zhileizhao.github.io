@@ -8,7 +8,7 @@ published: true
 My research interest and training are in the fields of _neurobiology_ and _evolutionary biology_.
 While broadly interested in any cool sciences in these two fields, I'm especially fascinated by their intersection: <span style="color:HotPink">_evolutionary neurobiology_</span>.      
 
-Evolutionary/comparative thinking will play essential roles in neurobiology, if our goal is to really understand the principles of how neural circuits mediate complex behaviors, not only case studies in a few model organisms. All neural circuits, no matter in fruit flies, mice or humans, are evolved from a common ancestor.
+Evolutionary/comparative thinking needs to play essential roles in neurobiology, if our goal is to really understand the principles of how neural circuits mediate complex behaviors, not only case studies in a few model organisms. All neural circuits, no matter in fruit flies, mice or humans, are evolved from a common ancestor.
 Since [evolution works by tinkering](https://science.sciencemag.org/content/196/4295/1161), the vast complexity we see with billions of neurons in human brain,
 <img align="right" src="/images/brain_tree2.png" style="width:240px;height:216px;">
 is the result of ever struggling for existence and descent with modifications, rather than omniscient design from scratch. We can only fully understand it when we compare it to other species, and find out what have conserved, what have changed, and what have converged.
