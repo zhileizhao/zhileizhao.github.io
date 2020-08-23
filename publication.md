@@ -14,6 +14,8 @@ I've been lucky to participate in many exciting research projects since college 
 
 
 ### Mosquito neurobiology
+**Zhao, Z.**, Tian, D., & McBride, C. S.\* (2020). Development of a pan-neuronal genetic driver in _Aedes aegypti_ mosquitoes. _BioRxiv_, 2020.08.22.262527. [https://doi.org/10.1101/2020.08.22.262527](https://doi.org/10.1101/2020.08.22.262527)
+
 Jové, V., Gong, Z.☨, Hol, F. J. H.☨, **Zhao, Z.** ☨, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.\* (2020). The taste of blood in mosquitoes. _BioRxiv_, 2020.02.27.954206. [https://doi.org/10.1101/2020.02.27.954206](https://doi.org/10.1101/2020.02.27.954206)
 
 
