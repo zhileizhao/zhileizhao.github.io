@@ -44,6 +44,9 @@ Advisor: Prof. Zenyi Chang
 -- The function of Heat Shock Protein in _C. elegans_.      
 
 ### Conferences
+European Chemoreception Research Organization. 2020.09     
+-- Poster: A robust neural code for human odour in the _Aedes aegypti_ mosquito brain.
+
 New Genetic Tools for Non-Model Organisms. 2019.03  
 -- Poster: Developing standard landing sites in _Aedes aegypti_ mosquitoes.   
 
