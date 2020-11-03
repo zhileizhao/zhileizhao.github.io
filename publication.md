@@ -14,6 +14,8 @@ I've been lucky to participate in many exciting research projects since college 
 
 
 ### Mosquito neurobiology
+**Zhao, Z.**\*, Zung, J. L., Kriete, A. L., Iqbal, A., Younger, M. A., Matthews, B. J., Merhof, D., Thiberge, S., Strauch, M., & McBride, C. S.\*  (2020). Chemical signatures of human odour generate a unique neural code in the brain of _Aedes aegypti_ mosquitoes. bioRxiv, [https://doi.org/10.1101/2020.11.01.363861](https://doi.org/10.1101/2020.11.01.363861)
+
 **Zhao, Z.**, Tian, D., & McBride, C. S.\* (2020). Development of a pan-neuronal genetic driver in _Aedes aegypti_ mosquitoes. _BioRxiv_, 2020.08.22.262527. [https://doi.org/10.1101/2020.08.22.262527](https://doi.org/10.1101/2020.08.22.262527)
 
 Jové, V., Gong, Z.☨, Hol, F. J. H.☨, **Zhao, Z.** ☨, Sorrells, T. R., Carroll, T. S., Prakash, M., McBride, C. S., & Vosshall, L. B.\* (2020). Sensory discrimination of blood and floral nectar by _Aedes aegypti_ mosquitoes. _Neuron_. [https://doi.org/10.1016/j.neuron.2020.09.019](https://doi.org/10.1016/j.neuron.2020.09.019). Available on _BioRxiv_, 02/27/2020.
